@@ -1,0 +1,35 @@
+.my-pic{
+  width: 10%;
+  border-radius: 100%;
+}
+
+.my-link{
+text-align: right;
+
+}
+
+
+.good{
+color: blue;
+}
+
+.row{
+    padding-top: 5rem;
+}
+.music{
+  width: 50%;
+}
+
+.picture{
+   width: 30%;
+   border-radius: 100%;
+
+  }
+
+  .cell{
+    border-spacing: 20;
+  }
+
+  body{
+    background-color: #66BFBF
+  }
