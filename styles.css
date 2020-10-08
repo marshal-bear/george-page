@@ -30,6 +30,18 @@ color: blue;
     border-spacing: 20;
   }
 
-  body{
-    background-color: #66BFBF
-  }
+.cloud{
+  position: absolute;
+}
+.topbox{
+  background-color: lightblue;
+  padding-top: 100px;
+  text-align: center;
+}
+.puter{
+  width: 10%;
+  border-radius: 100%;
+}
+.dots{
+  color: aqua;
+}
