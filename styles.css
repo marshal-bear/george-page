@@ -1,5 +1,5 @@
 .my-pic{
-  width: 10%;
+  width: 100%;
   border-radius: 100%;
 }
 
@@ -21,7 +21,7 @@ color: blue;
 }
 
 .picture{
-   width: 30%;
+   width: 50%;
    border-radius: 100%;
 
   }
@@ -35,11 +35,12 @@ color: blue;
 }
 .topbox{
   background-color: lightblue;
-  padding-top: 100px;
   text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
 }
 .puter{
-  width: 10%;
+  width: 30%;
   border-radius: 100%;
 }
 .dots{
@@ -47,4 +48,29 @@ color: blue;
 }
 .btn{
  color: blue;
+}
+.profile{
+width: 100%;
+border-radius: 100%;
+
+
+
+}
+.body{
+
+text-align: center;
+margin: 0%;
+font-family: 'Merriweather', serif;
+display: block;
+
+}
+.pro{
+
+text-underline-position: below;
+
+}
+.ok{
+
+
+  text-underline-position: below;
 }
