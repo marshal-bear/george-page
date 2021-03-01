@@ -75,6 +75,7 @@ text-underline-position: below;
   text-underline-position: below;
 }
 .mont{
-  display: block;
-  margin: 0%;
+  
+  width: 50%;
+  
 }
